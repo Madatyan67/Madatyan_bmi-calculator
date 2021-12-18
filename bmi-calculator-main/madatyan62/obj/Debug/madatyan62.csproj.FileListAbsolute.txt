@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\bin\Debug\madatyan62.exe.config
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\bin\Debug\madatyan62.exe
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\bin\Debug\madatyan62.pdb
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.Form1.resources
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.Properties.Resources.resources
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.csproj.GenerateResource.cache
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.exe
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.pdb
+C:\Users\student\source\repos\madatyan62\madatyan62\madatyan62\obj\Debug\madatyan62.Form2.resources
